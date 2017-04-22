@@ -1,4 +1,7 @@
-# test coverage for  [gulp-html-inline (v3.0.0)](https://github.com/RodeyManager/gulp-html-inline#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-html-inline.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-html-inline) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-html-inline.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-html-inline)
+# npmtest-gulp-html-inline
+
+#### basic test coverage for  [gulp-html-inline (v3.0.0)](https://github.com/RodeyManager/gulp-html-inline#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-html-inline.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-html-inline) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-html-inline.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-html-inline)
+
 #### 压缩html中的css和js（可将link和script中的href或者src引入的文件直接压缩替换到html中）
 
 [![NPM](https://nodei.co/npm/gulp-html-inline.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-html-inline)
@@ -77,7 +80,8 @@
     "scripts": {
         "test": "gulp-html-inline"
     },
-    "version": "3.0.0"
+    "version": "3.0.0",
+    "bin": {}
 }
 ```
 
